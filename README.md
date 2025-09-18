@@ -41,7 +41,6 @@
   <img src="assets/oso.gif" width="250" alt="Login Success"/>
 </p>
 
-> ⚠️ Replace the sample `assets/screenshots/*.gif` with your own screenshots or screen recordings.
 
 ---
 
