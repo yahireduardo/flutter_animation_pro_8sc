@@ -37,10 +37,10 @@
 ## 🎥 Screenshots / GIFs
 
 <p align="center">
-  <img src="assets/screenshots/login_idle.gif" width="250" alt="Login Idle"/>
-  <img src="assets/screenshots/login_typing.gif" width="250" alt="Typing Email"/>
-  <img src="assets/screenshots/login_password.gif" width="250" alt="Typing Password"/>
-  <img src="assets/screenshots/login_success.gif" width="250" alt="Login Success"/>
+  <img src="assets/screenshots/oso.gif" width="250" alt="Login Idle"/>
+  <img src="assets/screenshots/oso.gif" width="250" alt="Typing Email"/>
+  <img src="assets/screenshots/oso.gif" width="250" alt="Typing Password"/>
+  <img src="assets/screenshots/oso.gif" width="250" alt="Login Success"/>
 </p>
 
 > ⚠️ Replace the sample `assets/screenshots/*.gif` with your own screenshots or screen recordings.
