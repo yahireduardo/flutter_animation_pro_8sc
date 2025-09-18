@@ -37,9 +37,7 @@
 ## 🎥 Screenshots / GIFs
 
 <p align="center">
-  <img src="assets/oso.gif" width="250" alt="Login Idle"/>
-  <img src="assets/oso.gif" width="250" alt="Typing Email"/>
-  <img src="assets/oso.gif" width="250" alt="Typing Password"/>
+
   <img src="assets/oso.gif" width="250" alt="Login Success"/>
 </p>
 
